@@ -36,5 +36,7 @@ node server/server.js
 "start-dev": "react-scripts start",
 ```
 8. `heroku create react-on-heroku`
-9. `git push heroku master` to deploy
-10. Done
+9. `git remote -v`
+10. `git push heroku master` to deploy
+
+Done
